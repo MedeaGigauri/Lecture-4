@@ -42,10 +42,26 @@ header{
     width: 330px;
     margin-left: 40px;
 }
+.icons{
+    margin: 30px 0;
+}
+.little-icons-1{
+    padding: 15px 25px;
+}
+.little-icons-2{
+    padding: 12px 15px;
+}
+.little-icons-3{
+    padding: 27px 20px;
+}
+.little-icons-4{
+    padding: 14px 17px;
+}
+
 .title{
     color: #0F0F0F;
     font-size: 24px;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .text{
     color: #0F0F0F;
@@ -71,7 +87,6 @@ header{
     height: 300px;
     border-radius: 15px;
     filter: drop-shadow(0px 4px 3px rgba(0,0,0,0.16 ));
-
 }
 .dest-cards{
     width: 460px;
@@ -80,14 +95,70 @@ header{
     margin-left: 40px;
     margin-top: 20px;
 }
-.title{
+.country-name{
     color: #163235;
-    font-size: 38px;
+    font-size: 34px;
     font-weight: normal;
 }
-.text{
+.country-desc{
     color: #163235;
-    font-size: 26px;
+    font-size: 20px;
     font-weight: normal;
     font-style: normal;
+    width: 430px;
+}
+.small-images{
+    margin-top: 18px;
+    margin-right: 7px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.prices{
+    margin-top: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 180px;
+    color: #163235;
+    font-size: 24px;
+}
+.distance{
+    display: inline-block;
+    margin-top: 7px;
+}
+.duration{
+   display: inline-block;
+   margin-left: 200px;
+   margin-top: 7px;
+}
+footer{
+    margin-left: 40px;
+    vertical-align: middle;
+    width: 1440px;
+    margin-top: 74px;
+    
+}
+.copyright{
+    font-size: 22px;
+    text-align: left;
+    color: #000000;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 75px 40px;
+   
+}
+.footer-navigation{
+
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 150px;
+}
+.footer-item{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 65px;
+}
+.socmedia{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 21px;
 }
